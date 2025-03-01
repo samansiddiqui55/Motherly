@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Motherly - Your AI Comfort Companion
 
-## Getting Started
+ About Motherly
 
-First, run the development server:
+"Motherly" is an AI-powered chatbot designed to provide emotional support, advice, and comfort—just like a mother would. Whether you're feeling lonely, stressed, or just need someone to talk to, Motherly is here to listen and help.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tagline: Mom busy? Don't worry, we got you! 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🚀 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🗣 Conversational Support: Listens and responds with warmth and empathy.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+💡 Advice & Guidance: Provides comforting words and suggestions.
 
-## Learn More
+📆 24/7 Availability: Always there when you need someone.
 
-To learn more about Next.js, take a look at the following resources:
+✨ Daily Affirmations: Boosts positivity with uplifting messages.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🏡 Motherly Presence: Offers reassurance, just like a mom would.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🛠 Tech Stack
 
-## Deploy on Vercel
+Frontend: React.js, React Chatbot Kit
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Styling: Tailwind CSS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+AI Model: OpenAI GPT-3.5
+
